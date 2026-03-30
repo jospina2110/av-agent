@@ -1,0 +1,1 @@
+# TODO: Implement backend/app/repositories/trabajador_repo.py
