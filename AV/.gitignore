@@ -7,3 +7,19 @@ build/
 *.log
 .DS_Store
 Thumbs.db
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Alembic
+alembic/versions/*.pyc
+
+# Docker
+postgres_data/
+redis_data/
